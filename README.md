@@ -2,6 +2,7 @@
 
 A small single-page Task Manager app built with React and Vite. Tasks are stored in browser `localStorage` and the UI supports creating, editing, moving, and deleting tasks across columns (To Do, In Progress, Review, Done).
 
+
 ## Features
 - Kanban-style board with columns and task cards
 - Create, edit, delete tasks
